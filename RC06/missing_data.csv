@@ -1,0 +1,7 @@
+Name,Age,Gender,Income
+Alice,34.0,Female,50000.0
+Bob,,Male,45000.0
+Catherine,28.0,Female,
+David,45.0,,60000.0
+Eve,23.0,Female,35000.0
+Frank,32.0,,40000.0
